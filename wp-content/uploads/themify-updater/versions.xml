@@ -3,7 +3,7 @@
 	<version name="">1.0.0</version>
 	<version name="themify-ptb" promo_name="post-type-builder" type="plugin">1.6.3</version>	
 	<version name="themify-ptb-extra-fields" promo_name="extra-fields" type="plugin">1.4.5</version>	
-	<version name="themify-ptb-search" promo_name="search" type="plugin">1.3.0</version>	
+	<version name="themify-ptb-search" promo_name="search" type="plugin">1.3.1</version>	
 	<version name="themify-ptb-submissions" promo_name="submissions" type="plugin">1.3.7</version>	
 	<version name="themify-ptb-relation" promo_name="relation" type="plugin">1.2.0</version>
 	<version name="themify-ptb-map-view" promo_name="map-view" type="plugin">1.2.2</version>	
@@ -39,7 +39,7 @@
 	<version name="builder-audio" promo_name="audio" type="plugin">1.2.5</version>
 	<version name="builder-mosaic" promo_name="mosaic" type="plugin">1.1.3</version>
 	<version name="themify-builder" promo_name="builder" free="true" wp_hosted="true" type="plugin">4.7.2</version>
-	<version name="themify-builder-pro" promo_name="builder-pro" free="true" type="plugin">1.0.7</version>
+	<version name="themify-builder-pro" promo_name="builder-pro" free="true" type="plugin">1.0.8</version>
 	<version name="themify-builder-beta" type="plugin" free="true">4.5.1</version>
 	<version name="themify-builder-data-correction" promo_name="" type="plugin">1.0.0</version>
 	<version name="themify-builder-lite" promo_name="themify-builder-lite" free="true" wp_hosted="true" type="plugin">4.0.3</version>
